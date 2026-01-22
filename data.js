@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "id": "5b58c30f-fe29-41ab-a55b-ea8ecdca37be",
+    "title": "SVID 20260121 070958 1",
+    "description": "",
+    "date": "2026-01-22T08:44:49.846Z",
+    "playlist": "videos/5b58c30f-fe29-41ab-a55b-ea8ecdca37be/playlist.m3u8",
+    "thumbnail": "videos/5b58c30f-fe29-41ab-a55b-ea8ecdca37be/thumb.jpg"
+  },
+  {
     "id": "739bd09a-a557-4fa1-9a7c-c324d32ff470",
     "title": "SVID 20260121 065103 1",
     "description": "",
